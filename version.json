@@ -1,7 +1,7 @@
 {
-  "version": "v1.3.1",
-  "download_url": "https://github.com/malikabadaoui1975-afk/808-Overclock/releases/download/v.1.3.1/808OC.exe",
-  "announcement": "Hotfix v1.3.1 is LIVE! Dev By Lmbw9x",
-  "kill_switch": false,
-  "kill_reason": "Maintenance mode"
+    "version": "v1.3.2",
+    "download_url": "https://github.com/malikabadaoui1975-afk/808-Overclock/releases/download/v1.3.2/808OC.exe",
+    "announcement": "808 OVERCLOCK v1.3.2 is LIVE! Dual .bat Optimizers + Anti-VM Hardening. Dev By Lmbw9x",
+    "kill_switch": false,
+    "kill_reason": "Maintenance mode"
 }
