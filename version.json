@@ -1,8 +1,8 @@
 {
-    "version": "v2.0.0",
-    "download_url": "https://github.com/malikabadaoui1975-afk/808-Overclock/releases/download/v2.0.0/808OC.exe",
-    "sha256": "ACF3F71AB03FBD7CE6D301A4075D7A5F11F57B906D79C4D55E9A32F0D5515452",
-    "announcement": "808 OVERCLOCK v2.0.0 is LIVE! Pro Gaming Tools Suite, Ultimate Optimizer & High Contrast UI. Dev By LMBW9X",
-    "kill_switch": false,
-    "kill_reason": "Maintenance mode"
+  "version": "v2.0.0",
+  "download_url": "https://github.com/malikabadaoui1975-afk/808-Overclock/releases/download/v2.0.0/808OC.exe",
+  "sha256": "7a6316f2f17d81ae9fc2941c5e4c4f74c6e8ee328e5289660137e730381a62e1",
+  "announcement": "808 OVERCLOCK v2.0.0 is LIVE! Pro Gaming Tools Suite, Ultimate Optimizer & Maximum Anti-Tamper Security. Dev By LMBW9X",
+  "kill_switch": false,
+  "kill_reason": "Maintenance mode"
 }
